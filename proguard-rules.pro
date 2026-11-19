@@ -1,0 +1,2 @@
+-keep class com.naturalai.camerapro.** { *; }
+-dontwarn org.tensorflow.lite.**

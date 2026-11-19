@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.NaturalAICameraPro" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#FF050505</item>
+        <item name="android:navigationBarColor">#FF050505</item>
+        <item name="android:windowBackground">#FF050505</item>
+    </style>
+</resources>
